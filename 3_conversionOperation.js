@@ -61,6 +61,29 @@ let gameCounter = 100
 gameCounter++;
 console.log(gameCounter);
 
+//***********************//
+// Stack (Primitive), Heap (Non -Primitive)
+
+let myYoutubename = "Payalthakur"
+
+let anothername = "vlogs"
+anothername = "vlloger"
+console.log(anothername);
+console.log(myYoutubename);
+
+let userOne = {
+    email:"user@.com",
+    upi:"user@ybl"
+}
+
+let userTwo = userOne
+
+userOne.email = "Payal@.com"
+console.log(userOne.email);
+console.log(userTwo.email);
+
+
+
 
 
 
