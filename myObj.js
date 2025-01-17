@@ -1,0 +1,3 @@
+let myObj = {
+    name
+};
