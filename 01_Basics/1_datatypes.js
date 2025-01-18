@@ -26,3 +26,6 @@ console.log(typeof age); //number
 console.log(typeof"Payal"); //string
 console.log(typeof null); //object
 console.log(typeof undefine); //undefined
+
+//******** */
+
